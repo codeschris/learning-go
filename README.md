@@ -2,6 +2,12 @@
 
 This repository will contain Go snippets for different projects.
 
-## Table of contents
+## Modules
 
-1. Hello, World program
+### 00-hello_world
+
+> Creating a simple 'Hello, World!' program to learn the basic syntax of Go
+
+### 01-age_calculator
+
+> Creating an age calculator to learn about variable declarations, I/O operations, basic arithmetics
